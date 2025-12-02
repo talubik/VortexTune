@@ -1,4 +1,4 @@
-# Vortex Configuration Optimizer
+# VortexTune: GPGPU Configuration Optimizer
 
 This project provides an automated tool to explore and optimize the performance of the **Vortex GPGPU** architecture.
 
