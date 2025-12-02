@@ -1,0 +1,5 @@
+logs/
+example_study.db
+.vscode/
+.venv/
+pyvenv.cfg
