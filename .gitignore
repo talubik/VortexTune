@@ -1,4 +1,5 @@
-logs/
+logs*/
+reserve/
 example_study.db
 .vscode/
 .venv/
